@@ -1,16 +1,16 @@
 import { addDaysISO, todayISO } from "../utils/dateUtils";
 
 export const seedUsers = [
-  { id: "u1", user_id: "u1", full_name: "Waqas Baig", email: "gsl@zsms.local", phone: "0300-0000001", designation: "GSL", section: null, active: true },
-  { id: "u2", user_id: "u2", full_name: "Farah Iqbal", email: "gs@zsms.local", phone: "0300-0000002", designation: "GS", section: null, active: true },
-  { id: "u3", user_id: "u3", full_name: "Hina Yousaf", email: "ssl@zsms.local", phone: "0300-0000003", designation: "SSL", section: "SS", active: true },
-  { id: "u4", user_id: "u4", full_name: "Ayesha Noor", email: "assl@zsms.local", phone: "0300-0000004", designation: "ASSL", section: "SS", active: true },
-  { id: "u5", user_id: "u5", full_name: "Adeel Raza", email: "sl@zsms.local", phone: "0300-0000005", designation: "SL", section: "BS", active: true },
-  { id: "u6", user_id: "u6", full_name: "Kamran Sohail", email: "asl@zsms.local", phone: "0300-0000006", designation: "ASL", section: "BS", active: true },
-  { id: "u7", user_id: "u7", full_name: "Bilal Sarwar", email: "rl@zsms.local", phone: "0300-0000007", designation: "RL", section: "RS", active: true },
-  { id: "u8", user_id: "u8", full_name: "Usman Tariq", email: "arl@zsms.local", phone: "0300-0000008", designation: "ARL", section: "RS", active: true },
-  { id: "u9", user_id: "u9", full_name: "Sana Malik", email: "fs@zsms.local", phone: "0300-0000009", designation: "FS", section: null, active: true },
-  { id: "u10", user_id: "u10", full_name: "Imran Qureshi", email: "os@zsms.local", phone: "0300-0000010", designation: "OS", section: null, active: true },
+  { id: "u1", user_id: "u1", full_name: "SUBHAN ALI", email: "gsl@zsms.local", phone: "0300-0000001", designation: "GSL", section: null, active: true },
+  { id: "u2", user_id: "u2", full_name: "ALIYAN ARIF", email: "gs@zsms.local", phone: "0300-0000002", designation: "GS", section: null, active: true },
+  { id: "u3", user_id: "u3", full_name: "HASNAIN AFZAL", email: "ssl@zsms.local", phone: "0300-0000003", designation: "SSL", section: "SS", active: true },
+  { id: "u4", user_id: "u4", full_name: "SAMEER ALAM", email: "assl@zsms.local", phone: "0300-0000004", designation: "ASSL", section: "SS", active: true },
+  { id: "u5", user_id: "u5", full_name: "SYED AHAD", email: "sl@zsms.local", phone: "0300-0000005", designation: "SL", section: "BS", active: true },
+  { id: "u6", user_id: "u6", full_name: "ESHAN PERVIZ", email: "asl@zsms.local", phone: "0300-0000006", designation: "ASL", section: "BS", active: true },
+  { id: "u7", user_id: "u7", full_name: "HASSAN ALI", email: "rl@zsms.local", phone: "0300-0000007", designation: "RL", section: "RS", active: true },
+  { id: "u8", user_id: "u8", full_name: "REHAN SHAH", email: "arl@zsms.local", phone: "0300-0000008", designation: "ARL", section: "RS", active: true },
+  { id: "u9", user_id: "u9", full_name: "ALIYAN ARIF", email: "fs@zsms.local", phone: "0300-0000009", designation: "FS", section: null, active: true },
+  { id: "u10", user_id: "u10", full_name: "MUSA GARI", email: "os@zsms.local", phone: "0300-0000010", designation: "OS", section: null, active: true },
 ];
 
 export const seedScouts = [
